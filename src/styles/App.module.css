@@ -1,0 +1,28 @@
+.root{
+  display: block;
+  text-align: center;
+  position: absolute;
+  top:40%;
+  left: 40%;
+
+}
+
+.button {
+    border-radius: 6px;
+    border: 1px solid transparent;
+    padding: 0.4em 0.8em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: rgb(127, 240, 255);
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+  
+  .button:hover {
+    border-color: #000dff;
+    border-width: 1.1px;
+  }
+  
+
+  
